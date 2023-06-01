@@ -8,18 +8,17 @@ The threedark theme offers a combination of dark backgrounds and vibrant colors 
 
 ## Installation
 
-To install the threedark theme in Visual Studio Code, follow these simple steps:
+This theme is still under development and is not yet available in the Visual Studio Code Marketplace. However, you can install it manually by following the instructions below:
 
-1. Launch Visual Studio Code.
-2. Open the Extensions view by clicking on the square icon on the left sidebar or pressing `Ctrl+Shift+X`.
-3. Search for "threedark" in the Extensions marketplace.
-4. Click on the "Install" button for the threedark theme.
-5. Once installed, click on the gear icon to the right of the "Install" button and select "Set Color Theme".
-6. Choose "threedark" from the list of available themes.
+    Download the latest release of the theme in .vsix format from the threedark GitHub Repository.
+    Open Visual Studio Code.
+    Press Ctrl+Shift+P (or Cmd+Shift+P on macOS) to open the command palette.
+    Type "Extensions: Install from VSIX" and select the command.
+    Choose the downloaded .vsix file and click "Open".
+    Once installed, click on the gear icon to the right of the "Install" button and select "Set Color Theme".
+    Choose "threedark" from the list of available themes.
 
 ## Usage
-
-After installing the threedark theme, you can start enjoying its visually appealing design. Simply open or create a file in Visual Studio Code, and the threedark theme will be applied automatically.
 
 The theme provides carefully selected colors for different syntax elements to enhance readability. Here are the colors used in the threedark theme:
 
