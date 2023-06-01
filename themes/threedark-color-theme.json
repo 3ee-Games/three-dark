@@ -196,17 +196,12 @@
     "terminalCursor.background": "#234d70",
     "textCodeBlock.background": "#4f4f4f",
     "debugToolBar.background": "#011627",
-    "welcomePage.buttonBackground": "#011627",
-    "welcomePage.buttonHoverBackground": "#011627",
     "walkThrough.embeddedEditorBackground": "#011627",
     "gitDecoration.modifiedResourceForeground": "#389BED",
     "gitDecoration.deletedResourceForeground": "#EF535090",
     "gitDecoration.untrackedResourceForeground": "#c5e478ff",
     "gitDecoration.ignoredResourceForeground": "#395a75",
     "gitDecoration.conflictingResourceForeground": "#ffeb95cc",
-    "source.elm": "#5f7e97",
-    "string.quoted.single.js": "#ffffff",
-    "meta.objectliteral.js": "#82AAFF"
   },
   "tokenColors": [
     {
