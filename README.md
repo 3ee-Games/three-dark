@@ -1,4 +1,4 @@
-# threedark
+# threedark 🌙
 
 threedark is a visually appealing and highly customizable theme for Visual Studio Code. Created and used by 3ee Games, it provides a sleek and immersive coding experience.
 
@@ -10,13 +10,12 @@ The threedark theme offers a combination of dark backgrounds and vibrant colors 
 
 ## Installation
 
-This theme is still under development and is not yet available in the Visual Studio Code Marketplace. However, you can install it manually:
-
-- Press Ctrl+Shift+P (or Cmd+Shift+P on macOS) to open the command palette.
-- Type "Extensions: Install from VSIX" and select the command.
-- Choose the downloaded .vsix file and click "Open".
-- Once installed, click on the gear icon to the right of the "Install" button and select "Set Color Theme".
-- Choose "threedark" from the list of available themes.
+1. Open Visual Studio Code.
+2. Click on the "Extensions" icon in the sidebar.
+3. Search for "threedark" in the marketplace search bar.
+4. Click on the "Install" button next to the threedark theme.
+5. Once installed, click on the gear icon to the right of the "Install" button and select "Set Color Theme".
+6. Choose "threedark" from the list of available themes.
 
 ## Usage
 
