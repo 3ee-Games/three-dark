@@ -4,7 +4,7 @@ threedark is a visually appealing and highly customizable theme for Visual Studi
 
 ## Overview
 
-![threedark screenshot](https://github.com/3ee-Games/three-dark/blob/main/docs/threedark.png)
+![threedark screenshot](https://github.com/3ee-Games/three-dark/blob/main/images/screenshot.png)
 
 The threedark theme offers a combination of dark backgrounds and vibrant colors that make your code stand out. It is designed to enhance readability and reduce eye strain during long coding sessions.
 

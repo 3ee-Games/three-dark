@@ -1,8 +1,10 @@
 {
   "name": "threedark",
+  "publisher": "theegamesVSMarketPlace",
+  "icon": "images/logo.png",
   "displayName": "threedark",
-  "description": "3ee Games dark mode",
-  "version": "0.0.1",
+  "description": "3ee Games dark mode theme",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -17,5 +19,17 @@
         "path": "./themes/threedark-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/3ee-Games/three-dark"
+  },
+  "screenshots": [
+    {
+      "image": "images/screenshot.png",
+      "caption": "Screenshot of threedark"
+    }
+  ]
+  
+  
 }
