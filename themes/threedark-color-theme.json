@@ -181,7 +181,7 @@
     "terminal.ansiBlue": "#389BED",
     "terminal.ansiCyan": "#2cfadb",
     "terminal.ansiGreen": "#1FE00A",
-    "terminal.ansiMagenta": "#a42cfa",
+    "terminal.ansiMagenta": "#bb64f9",
     "terminal.ansiRed": "#fa2cca",
     "terminal.ansiYellow": "#e0ff4a",
     "terminal.ansiBrightWhite": "#ffffff",
@@ -189,7 +189,7 @@
     "terminal.ansiBrightBlue": "#389BED",
     "terminal.ansiBrightCyan": "#2cfadb",
     "terminal.ansiBrightGreen": "#1FE00A",
-    "terminal.ansiBrightMagenta": "#a42cfa",
+    "terminal.ansiBrightMagenta": "#bb64f9",
     "terminal.ansiBrightRed": "#fa2cca",
     "terminal.ansiBrightYellow": "#e0ff4a",
     "terminal.selectionBackground": "#10213e",
@@ -331,7 +331,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#ff7a20"
+        "foreground": "#bb64f9"
       }
     },
     {
