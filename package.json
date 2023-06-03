@@ -4,7 +4,7 @@
   "icon": "images/logo.png",
   "displayName": "threedark",
   "description": "3ee Games dark mode theme",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.78.0"
   },
